@@ -1,8 +1,8 @@
-# Project Title
+Project Title
 
 E-commerce Product Analysis using Web Scraping & Data Analytics
 
-# Overview
+Overview
 
 This project focuses on extracting product data from an e-commerce-style website and performing data analysis to uncover insights related to pricing strategy, customer satisfaction, and product performance.
 
@@ -18,7 +18,7 @@ This project focuses on extracting product data from an e-commerce-style website
 - Matplotlib (Data Visualization)
 - Jupyter Notebook
 
-# Key Analysis Performed
+ Key Analysis Performed
 - Price Distribution Analysis
 - Rating Distribution Analysis
 - Price vs Rating Relationship
